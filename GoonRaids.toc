@@ -1,0 +1,6 @@
+## Interface: 110002
+## Title: GoonRaids
+## Notes: Tracks deaths in raids and announces specific events.
+## Author: Dinkins-Mal'Ganis
+## Version: 1.1
+GoonRaids.lua
